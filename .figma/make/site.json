@@ -1,0 +1,10 @@
+{
+  "description": "Streamline maritime logistics with a comprehensive platform for tracking ships, cargo details, customs approvals, and transport options across all modes.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
